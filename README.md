@@ -36,7 +36,7 @@ Necesitas tener esto a mano, no está incluido en el repo:
 
 1.  Descarga el zip `Port_Esp_NFSMW_By_ZARF.zip` de la pestaña **Releases** y extráelo.
 2.  Descarga las 2 herramientas de **NFS.BIN.TOOL de Ekey** y ponlas en la misma carpeta extraída.
-3.  Descarga el pack de **bluesky**, instala el códec **On2 VP6 Codec** que trae, y luego extrae la carpeta `COMPILER` dentro de la misma carpeta extraída de mi zip.
+3.  Descarga el pack de **bluesky**, instala todo el contenido de la carpeta **INSTALL FIRST** que trae, luego extrae la carpeta `COMPILER` dentro de la misma carpeta extraída de mi zip.
 4.  Pon los archivos de audio de PS2 en la carpeta `PS2_AUDIO`. Para obtenerlos usa el script `extraer_audio_ps2.py` que incluye mi zip, solo ejecútalo al lado de la ISO PAL.
 5.  Copia los vídeos .vp6 en español de la versión de PC en la carpeta `PC_VIDEOS`.
 6.  Pon el juego completo de Xbox NTSC extraído en carpeta dentro de `JUEGO_XBOX`.
